@@ -7,31 +7,35 @@
 
 #conteudo{
     width: 100%;
-    height: 530px;
-    
-}
-#conteudo-esquerda{
-    width: 60%;
-    height: 530px;
    
-    float: left;
-}
-#sobreeu{
-    text-align: left;
-    font-family: 'Times New Roman', Helvetica, serif;
-    font-size: large;
-}
-
-#conteudo-direita{
-    width: 40%;
-    height: 530px;
     
-    float: left;
+}
+#conteudo-direita{
+    width: 50%;
+    
+    float:right
+    
+    
 }
 #ft{
     width: 100%;
 
 }
+
+#conteudo-esquerda{
+    width: 50%;
+   
+    
+
+    
+}
+#sobreeu{
+    text-align: left;
+    font-family: 'Times New Roman', Helvetica, serif;
+    font-size:  20px;
+}
+
+
 
 #rodape{
     width: 100%;
