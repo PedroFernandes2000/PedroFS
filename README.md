@@ -1,3 +1,5 @@
+![pedrinpvp'GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFernandes2000&show_icons=true&theme=radical)
+
 - 👋 Hi, I’m Pedro Fernandes;
 - 👀 I’m interested in learn new things and computer science;
 - 🌱 I’m currently learning Java, C, Python and Web Desing ; 
